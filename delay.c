@@ -1,8 +1,8 @@
 /*
  * delay.c
  *
- *  Created on: 9 mai 2018
- *      Author: Alex
+ *  Created on: 12 mai 2018
+ *      Author: Vlad
  */
 #include "delay.h"
 #define BUS_PERIOD 50
