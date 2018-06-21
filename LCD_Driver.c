@@ -1,8 +1,8 @@
 /*
  * LCD_Driver.c
  *
- *  Created on: 9 mai 2018
- *      Author: Alex
+ *  Created on: 13 mai 2018
+ *      Author: Vlad
  */
 
 #include "LCD_Driver.h"
